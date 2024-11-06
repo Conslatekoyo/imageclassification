@@ -1,7 +1,7 @@
 
 # Image Classification Project
 
-A machine learning project to classify images using multiple algorithms, comparing the performance of each model on the dataset. The project covers data preprocessing, model training, evaluation, and visualization through confusion matrices.
+A machine learning project to classify images of handwritten digits using multiple algorithms, comparing the performance of each model on the dataset. The project covers data preprocessing, model training, evaluation, and visualization through confusion matrices.
 
 ## Introduction
 
